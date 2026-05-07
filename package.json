@@ -1,0 +1,12 @@
+{
+  "name": "file-processor",
+  "version": "1.0.0",
+  "description": "Demo for Node.js core concepts",
+  "main": "src/non-blocking.js",
+  "scripts": {
+    "start": "node src/non-blocking.js",
+    "blocking": "node src/blocking-demo.js",
+    "reactor": "node src/reactor-example.js"
+  },
+  "dependencies": {}
+}
