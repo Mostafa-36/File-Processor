@@ -551,4 +551,3 @@ Node.js becomes scalable because:
 - processes events asynchronously
 - follows the Reactor Pattern internally
 
-```
