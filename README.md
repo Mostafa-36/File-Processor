@@ -552,5 +552,3 @@ Node.js becomes scalable because:
 - follows the Reactor Pattern internally
 
 ```
-
-```
